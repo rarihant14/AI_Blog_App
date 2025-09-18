@@ -6,7 +6,6 @@ It uses **FastAPI** for the backend and **Streamlit** for the frontend.
 ## Features
 - Generate AI-written blogs with optional humanization
 - Optional translation into user-selected languages
-- Modular architecture with multi-agent capabilities (Writer + Translation)
 - Streamlit interactive frontend
 
 
