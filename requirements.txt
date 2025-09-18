@@ -1,0 +1,20 @@
+# Backend
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv
+
+# LangChain + Observability
+langchain
+langchain_groq
+# Database (optional persistence)
+sqlalchemy
+# alembic
+
+# Frontend
+streamlit
+requests
+
+# Misc
+python-multipart
