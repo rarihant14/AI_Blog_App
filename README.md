@@ -11,5 +11,7 @@ It uses **FastAPI** for the backend and **Streamlit** for the frontend.
 
 
 Clone the repository:
+   
     git clone https://github.com/rarihant14/AI_Blog_App.git
+    
     cd AI_Blog_App
